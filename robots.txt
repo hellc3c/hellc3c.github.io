@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: http://hellc3c.github.io/sitemap.xml
